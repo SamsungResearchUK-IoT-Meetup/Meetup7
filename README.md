@@ -8,4 +8,4 @@ A repo to hold details of our 7th meetup. Mainly used for documenting what we do
 Code, tutorials and documents for the 7th meetup.
 
 Have a look at the [WiKi](https://github.com/SamsungResearchUK-IoT-Meetup/Meetup7/wiki) for details on what was organised for the meetup!
-Our 7th meetup. Continuing with the Sensor Farm Project! 
+Our 7th meetup. Continuing with the Sensor Farm Project and a little bit of hardware design! 
